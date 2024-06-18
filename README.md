@@ -1,1 +1,3 @@
-# Beginning-C-Programming-with-Grit
+# 독하게 시작하는 C 프로그래밍
+
+널널한 개발자 **독하게 시작하는 C 프로그래밍** 강의
