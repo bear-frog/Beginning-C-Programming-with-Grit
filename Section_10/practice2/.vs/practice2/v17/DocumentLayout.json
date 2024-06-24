@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\Section_10\\practice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B704E8A5-9E9D-4610-B0B5-CB94351DC230}|practice2\\practice2.vcxproj|C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\Section_10\\practice2\\practice2\\practice2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B704E8A5-9E9D-4610-B0B5-CB94351DC230}|practice2\\practice2.vcxproj|solutionrelative:practice2\\practice2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice2.c",
+              "DocumentMoniker": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\Section_10\\practice2\\practice2\\practice2.c",
+              "RelativeDocumentMoniker": "practice2\\practice2.c",
+              "ToolTip": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\Section_10\\practice2\\practice2\\practice2.c",
+              "RelativeToolTip": "practice2\\practice2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-24T07:29:31.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
