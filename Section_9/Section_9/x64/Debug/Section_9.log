@@ -1,0 +1,2 @@
+﻿formatSample.obj : error LNK2005: main이(가) floatSample.obj에 이미 정의되어 있습니다.
+C:\Users\egnachio\Desktop\study\Beginning-C-Programming-with-Grit\Section_9\x64\Debug\Section_9.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

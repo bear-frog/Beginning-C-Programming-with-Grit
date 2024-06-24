@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\Section_9\\floatSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84909587-7F8E-4614-AB95-F9D0679DC8FE}|floatSample\\floatSample.vcxproj|C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\Section_9\\floatSample\\floatSample\\floatSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84909587-7F8E-4614-AB95-F9D0679DC8FE}|floatSample\\floatSample.vcxproj|solutionrelative:floatSample\\floatSample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "floatSample.c",
+              "DocumentMoniker": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\Section_9\\floatSample\\floatSample\\floatSample.c",
+              "RelativeDocumentMoniker": "floatSample\\floatSample.c",
+              "ToolTip": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\Section_9\\floatSample\\floatSample\\floatSample.c",
+              "RelativeToolTip": "floatSample\\floatSample.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-19T04:21:59.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

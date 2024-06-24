@@ -1,0 +1,3 @@
+﻿  scanfChar.c
+C:\Users\egnachio\Desktop\study\Beginning-C-Programming-with-Grit\Section_9\scanfChar\scanfChar\scanfChar.c(10,10): warning C4477: 'scanf_s' : 서식 문자열 '%4c'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned __int64'입니다.
+  scanfChar.vcxproj -> C:\Users\egnachio\Desktop\study\Beginning-C-Programming-with-Grit\Section_9\scanfChar\scanfChar\x64\Debug\scanfChar.exe

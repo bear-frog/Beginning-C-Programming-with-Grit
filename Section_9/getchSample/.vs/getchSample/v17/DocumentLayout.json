@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\getchSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C7B860-1FD7-41D5-B3C3-89A140623717}|getchSample\\getchSample.vcxproj|C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\getchSample\\getchSample\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2C7B860-1FD7-41D5-B3C3-89A140623717}|getchSample\\getchSample.vcxproj|solutionrelative:getchSample\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\getchSample\\getchSample\\main.c",
+              "RelativeDocumentMoniker": "getchSample\\main.c",
+              "ToolTip": "C:\\Users\\egnachio\\Desktop\\study\\Beginning-C-Programming-with-Grit\\getchSample\\getchSample\\main.c",
+              "RelativeToolTip": "getchSample\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-19T01:19:43.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
